@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/G6F3V2F/github-header-banner-1.png" alt="GitHub Header Banner" />
+<img src="https://i.ibb.co.com/G6F3V2F/github-header-banner-1.png" />
 
 
 <p align="center">
