@@ -10,7 +10,6 @@
 <h1 align="center"></h1>
 <h4 align="center">I'm a passionate Frontend Developer with a strong focus on creating clean, user-friendly, and visually appealing web interfaces. I enjoy exploring new things in technology and continuously improving my skills. If you want to explore more about my work, feel free to follow me. Outside of coding, I enjoy exploring new things, playing guitar, and riding.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanimahamed07&label=Profile%20views&color=0e75b6&style=flat" alt="tanimahamed07" /> </p>
 
 - 📫 How to reach me **tanimislamt@gmail.com**
 
@@ -34,10 +33,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanimahamed07&" alt="tanimahamed07" /></p>
 <h1></h1>
 
-
-
-<!-- <p align="left"> -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanimahamed07&show_icons=true&locale=en" alt="tanimahamed07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanimahamed07&" alt="tanimahamed07" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanimahamed07&label=Profile%20views&color=0e75b6&style=flat" alt="tanimahamed07" /> </p>
