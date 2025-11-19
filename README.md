@@ -25,11 +25,8 @@
 <a href="https://fb.com/tanim.123888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanim.123888" height="30" width="40" /></a>
 <a href="https://instagram.com/tanimahamed.3739s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanimahamed.3739s" height="30" width="40" /></a>
 </p>
-<h2 align="left"> <img src="https://camo.githubusercontent.com/63eaf29f035786ed514aa57e190cfa7a208197bbd5e6c339cc656beae86ea701/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4b47687051354e4d6f574b5175726c4877492f67697068792e77656270" alt="Tools" height="40" style="vertical-align: middle;"/>  Languages & Frameworks & Tools:</h2>
+<h2 align="left"> <img src="https://camo.githubusercontent.com/63eaf29f035786ed514aa57e190cfa7a208197bbd5e6c339cc656beae86ea701/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4b47687051354e4d6f574b5175726c4877492f67697068792e77656270" alt="Tools" height="40" style="vertical-align: middle;"/> Skills & Technologies:</h2>
 </p>
-<!-- Languages and Tools -->
-<h2 align="left">🧠 Skills & Technologies</h2>
-<p align="left">
  
   <h4> Languages<h4/>
    <a href="https://skillicons.dev">
