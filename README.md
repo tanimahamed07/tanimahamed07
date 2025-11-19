@@ -27,10 +27,57 @@
 </p>
 <h2 align="left"> <img src="https://camo.githubusercontent.com/63eaf29f035786ed514aa57e190cfa7a208197bbd5e6c339cc656beae86ea701/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4b47687051354e4d6f574b5175726c4877492f67697068792e77656270" alt="Tools" height="40" style="vertical-align: middle;"/>  Languages & Frameworks & Tools:</h2>
 </p>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- Languages and Tools -->
+<h2 align="left">🧠 Skills & Technologies</h2>
+<p align="left">
+ 
+  <h4> Languages<h4/>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+    <h4>Frontend<h4/>
 
+   <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,tailwind,daisyui"
+    />
+  </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanimahamed07&show_icons=true&locale=en" alt="tanimahamed07" /></p>
+  <h4>Backend</h4>
+     <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs"
+    />
+  </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanimahamed07&" alt="tanimahamed07" /></p>
-<h1></h1>
+  <h4>Database</h4>
+     <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,firebase"
+    />
+  </a>
+
+  <h4>Deployment & Hosting</h4>
+   <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,firebase"
+    />
+  </a>
+
+  <h4>Tools & Others </h4>
+    <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,chatgpt,gemini,claude"
+    />
+  </a>
+  
+</p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omor244&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omor244&" alt="Streak Stats"/>
+</p>
