@@ -16,8 +16,16 @@
 
 - 📫 How to reach me **tanimislamt@gmail.com**
 
+## 🔥 Current Activities
 
-<h2 align="left"> <img src="https://camo.githubusercontent.com/7989526b0dd6f7b8f15e2438ca166fee7d8412ba22d19e205cb81a49d058d8c7/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f3635717a555a636b7a655747317775674c572f67697068792e77656270" alt="Tools" height="40" style="vertical-align: middle;"/> Conect With me:</h2>
+- 🖥️ Building responsive web interfaces using **HTML5, CSS3, JavaScript**
+- ⚛️ Developing front-end apps with **React.js** and **Vite**
+- 🛠️ Creating fullstack projects with **Node.js, Express, MongoDB, and Firebase**
+- 🎨 Designing UI with **Tailwind CSS** and **DaisyUI**
+- 🚀 Deploying apps on **Vercel** and **Netlify**
+
+
+<h2 align="left"> <img src="https://camo.githubusercontent.com/7989526b0dd6f7b8f15e2438ca166fee7d8412ba22d19e205cb81a49d058d8c7/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f3635717a555a636b7a655747317775674c572f67697068792e77656270" alt="Tools" height="40" style="vertical-align: middle;"/> Conect With Me:</h2>
 </p>
 <p align="left">
 
