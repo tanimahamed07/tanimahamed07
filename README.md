@@ -36,4 +36,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanimahamed07&" alt="tanimahamed07" /></p>
 <h1></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanimahamed07&label=Profile%20views&color=0e75b6&style=flat" alt="tanimahamed07" /> </p>
