@@ -58,7 +58,7 @@
   <h4>Database</h4>
      <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,firebase"
+      src="https://go-skill-icons.vercel.app/api/icons?i=mongodb"
     />
   </a>
 
