@@ -1,4 +1,14 @@
-<a href="https://ibb.co.com/200zdJ7C"><img src="https://i.ibb.co.com/tww0DRMv/1769355667023.jpg" alt="1769355667023" border="0"></a>
+<p align="center">
+  <a href="https://ibb.co.com/200zdJ7C">
+    <img src="https://i.ibb.co.com/tww0DRMv/1769355667023.jpg" alt="Banners" border="0" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=450&lines=I+am+Tanim+Ahamed....;Nice+to+meet+You!;Hello%2C+There+!++%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</p>
 
 
 <p align="center">
