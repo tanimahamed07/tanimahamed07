@@ -11,14 +11,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=450&lines=I+am+Tanim+Ahamed....;Nice+to+meet+You!;Hello%2C+There+!++%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
-</p>
-
-
-
 
 <h1 align="center"></h1>
 <h3 align="center">I'm a passionate Frontend Developer with a strong focus on creating clean, user-friendly, and visually appealing web interfaces. I enjoy exploring new things in technology and continuously improving my skills. If you want to explore more about my work, feel free to follow me. Outside of coding, I enjoy exploring new things, playing guitar, and bike riding.</h3>
