@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/s9ZwRPL5/Screenshot-2026-01-17-at-12-11-09-PM.png" />
+<img src="https://ibb.co.com/200zdJ7C" />
 
 
 <p align="center">
