@@ -60,14 +60,14 @@
   <h4>Database</h4>
      <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=mongodb"
+      src="https://go-skill-icons.vercel.app/api/icons?i=mongodb, postgress"
     />
   </a>
 
   <h4>Deployment & Hosting</h4>
    <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,firebase"
+      src="https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,firebase,render"
     />
   </a>
 
