@@ -40,7 +40,7 @@
  
   <h4> Languages<h4/>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
   </a>
     <h4>Frontend<h4/>
 
