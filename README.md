@@ -38,31 +38,25 @@
 <h2 align="left"> <img src="https://camo.githubusercontent.com/63eaf29f035786ed514aa57e190cfa7a208197bbd5e6c339cc656beae86ea701/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4b47687051354e4d6f574b5175726c4877492f67697068792e77656270" alt="Tools" height="40" style="vertical-align: middle;"/> Skills & Technologies:</h2>
 </p>
  
-  <h4> Languages<h4/>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-  </a>
-    <h4>Frontend<h4/>
+<h4>Languages</h4>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</a>
 
-   <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,next,tailwind,daisyui"
-    />
-  </a>
+<h4>Frontend</h4>
+<a href="https://go-skill-icons.vercel.app/">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,next,tailwind,daisyui" />
+</a>
 
-  <h4>Backend</h4>
-     <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs"
-    />
-  </a>
+<h4>Backend & Tools</h4>
+<a href="https://go-skill-icons.vercel.app/">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,mongoose,prisma" />
+</a>
 
-  <h4>Database</h4>
-     <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=mongodb, postgress"
-    />
-  </a>
+<h4>Database</h4>
+<a href="https://go-skill-icons.vercel.app/">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgres" />
+</a>
 
   <h4>Deployment & Hosting</h4>
    <a href="https://go-skill-icons.vercel.app/">
