@@ -17,7 +17,7 @@
 
 
 <h1 align="center"></h1>
-<h3 align="center">I'm a passionate Frontend Developer with a strong focus on creating clean, user-friendly, and visually appealing web interfaces. I enjoy exploring new things in technology and continuously improving my skills. If you want to explore more about my work, feel free to follow me. Outside of coding, I enjoy exploring new things, playing guitar, and bike riding.</h3>
+<h3 align="center">I'm Tanim Ahamed, a Full-Stack Developer focused on building modern, responsive, and scalable web applications using React.js, Next.js, TypeScript, Node.js, and Express.js. I specialize in crafting intuitive user interfaces, robust RESTful APIs, secure authentication systems, and efficient database solutions with PostgreSQL, MongoDB, Prisma, and Mongoose. I enjoy solving real-world problems through technology, exploring new tools, and continuously improving my development skills. Outside of coding, I enjoy playing acoustic guitar and bike riding.</h3>
 
 
 - 📫 How to reach me **tanimislamt@gmail.com**
