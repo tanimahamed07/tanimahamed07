@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ibb.co.com/200zdJ7C">
-    <img src="https://i.ibb.co.com/tww0DRMv/1769355667023.jpg" alt="Banners" border="0" width="100%">
+   <a href="https://ibb.co.com/YBFBgYPQ"><img src="https://i.ibb.co.com/tpTpRkQK/Tanim-Ahamed-Full-Stack-Developer-Banner.png" alt="Tanim-Ahamed-Full-Stack-Developer-Banner" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>roll die to pick a number</a><br />
   </a>
 </p>
 
