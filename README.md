@@ -1,8 +1,12 @@
+
 <p align="center">
-  <a href="https://ibb.co.com/200zdJ7C">
-   <a href="https://ibb.co.com/YBFBgYPQ"><img src="https://i.ibb.co.com/tpTpRkQK/Tanim-Ahamed-Full-Stack-Developer-Banner.png" alt="Tanim-Ahamed-Full-Stack-Developer-Banner" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>roll die to pick a number</a><br />
-  </a>
+  <img
+    src="https://i.ibb.co.com/tpTpRkQK/Tanim-Ahamed-Full-Stack-Developer-Banner.png"
+    alt="Tanim Ahamed - Full Stack Developer Banner"
+    width="100%"
+  />
 </p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
